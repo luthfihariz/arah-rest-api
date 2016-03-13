@@ -1,4 +1,4 @@
-# Arah Data Scrapping
+# Arah Rest API
 
 Arah is an open source project that has two main purpose :
 
